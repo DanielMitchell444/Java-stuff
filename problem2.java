@@ -1,5 +1,5 @@
 class problem2{
- public static void main(string [] args){
+ public static void main(String [] args){
     //In this problem, you will guess the answer using comments
 
     int x = 5;

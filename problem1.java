@@ -1,5 +1,5 @@
 class problem1{
- public static void main(string[]args){
+ public static void main(String[]args){
  //The goal of this problem is to make a int, and a double variable
  //and print it on the screen
 
